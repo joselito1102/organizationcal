@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body {
+    font-family:'Ubuntu', cursive;
+    background-color: #e0c116;
+}
+
+#titulo{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: 'Ubuntu', cursive;
+    justify-content: center;     
+}
+
+#subtitulo1{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Lora', cursive;
+    justify-content: center;  
+}
+
+
+#subtitulo2{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Lora', cursive;
+    justify-content: center;  
+    position: relative;
+    left: 500px;
+    bottom: 50px;
+}
+
+#formulario{
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+}
